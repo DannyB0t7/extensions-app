@@ -1,12 +1,24 @@
-# React + Vite
+✅ Extensions Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Overview  
+A powerful React-based application that allows users to manage browser extensions effortlessly. The app provides intuitive controls to toggle the status of extensions, remove them, and filter based on their active state, all within a sleek and modern UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🗂️ **Dynamic Extension Cards** - Easily render and manage a list of browser extensions.
+- 🔄 **Toggle Extension Status** - Activate or deactivate extensions with a single click.
+- ❌ **Remove Extensions** - Remove unwanted extensions seamlessly.
+- 🔍 **Advanced Filtering** - Sort extensions by All, Active, or Inactive states.
+- 📦 **Global State Management** - Efficient state handling using the [Context API](https://reactjs.org/docs/context.html).
+- 🎨 **Modern UI Design** - Crafted using [Tailwind CSS](https://tailwindcss.com/) for a clean and responsive interface.
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React.js](https://reactjs.org/) – Component-based frontend framework
+- [Context API](https://reactjs.org/docs/context.html) – Simplified state management
+- [Tailwind CSS](https://tailwindcss.com/) – Modern styling framework
+- Props – Data communication between components
+
+## 🚀 Live Demo
+
+🔗 [View Live Demo](https://broswer-extensions-fb.netlify.app/)
