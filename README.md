@@ -1,4 +1,4 @@
-#✅ Extensions Management App
+# ✅ Extensions Management App
 
 ## 🚀 Overview  
 A powerful React-based application that allows users to manage browser extensions effortlessly. The app provides intuitive controls to toggle the status of extensions, remove them, and filter based on their active state, all within a sleek and modern UI.
